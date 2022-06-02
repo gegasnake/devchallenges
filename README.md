@@ -1,2 +1,2 @@
 # devchallenges
-this are projects of the site -> devChallenges.io
+this is a project of the site -> devChallenges.io
